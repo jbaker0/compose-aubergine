@@ -1,3 +1,2 @@
-persistent/*
+persistent
 .secrets
-
